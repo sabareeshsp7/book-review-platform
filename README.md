@@ -4,6 +4,7 @@ A full-stack web application for book lovers to discover, review, and rate books
 
 
 
+![image](https://github.com/user-attachments/assets/256be8da-c540-4b25-a21e-cc4d71f3b7bf)
 
 
 ## 🌟 Features
