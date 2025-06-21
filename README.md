@@ -306,6 +306,9 @@ Open your browser and navigate to `http://localhost:3000`
 
 ## 📱 Usage Guide
 
+![image](https://github.com/user-attachments/assets/2d3f173c-1cbb-49f9-95d9-779662089282)
+
+
 ### User Registration & Authentication
 
 1. **Register**: Navigate to `/register` to create a new account
